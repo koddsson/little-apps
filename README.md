@@ -1,5 +1,7 @@
 # little-apps
-A directory of small web apps that I've been tinkering with. Note that these are probably all works in progress or broken. Feel free to open up PRs or issues with bug reports and feature requests. PRs are more likely to be accepted but I might also not want features that you want. In that case I'd advise you to run your own fork. Since all these deploy to GitHub pages it should be easy to get your fork up and running.
+A directory of small web apps that I've been tinkering with. Note that these are probably all works in progress or broken.
+
+Feel free to open up PRs or issues with bug reports and feature requests. PRs are more likely to be accepted but I might also not want features that you want. In that case I'd advise you to run your own fork. Since all these deploy to GitHub pages it should be easy to get your fork up and running.
 
 ## Apps
 
